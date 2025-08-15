@@ -14,3 +14,6 @@ Generación de rankings y visualizaciones (gráficos de barras, mapas de calor, 
 
 # Fase 2: Modelo de Machine Learning
 Entrenar un modelo de clasificación para predecir la categoría de producto más probable de compra según edad y otras variables relevantes.
+
+
+Fuente del Dataset: https://www.kaggle.com/datasets/sanyamgoyal401/customer-purchases-behaviour-dataset
